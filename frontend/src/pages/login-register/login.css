@@ -1,0 +1,21 @@
+.container {
+    margin: 40px auto;
+    max-width: 800px;
+    padding: 0 20px;
+  }
+  
+  .breadcrumb {
+    margin-bottom: 40px;
+  }
+  
+  .breadcrumb .home {
+    color: #b2d260;
+    text-decoration: none;
+    font-size: 13px;
+  line-height: 21.125px;
+  text-align: start;
+  }
+  .breadcrumb .post {text-decoration: none;
+    font-size: 13px;
+  line-height: 21.125px;
+  text-align: start;}

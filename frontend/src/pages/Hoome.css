@@ -1,0 +1,14 @@
+body {
+    font-family: "Work Sans", sans-serif;
+  }
+h1,h2{  font-size: 24px;
+    line-height: 28.8px;
+    text-align: start;
+    letter-spacing: 1px
+}
+p {
+    font-size: 15px;
+    line-height: 24.375px;
+    text-align: start;
+    letter-spacing: normal;
+  }
